@@ -1,4 +1,5 @@
 # TEAM PROJECT - Tooktook
+팀 프로젝트로 진행한 내용입니다.
 
 # 🐱‍💻💬 wh07-1st-Tooktook
 **실시간 정책자금 AI 상담 지원**
